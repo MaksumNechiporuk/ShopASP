@@ -1,0 +1,36 @@
+﻿@{
+<div class="container">
+    <div id="slider">
+        <div class="slides-container">
+            @foreach (var item in Model.Products)
+            {
+
+                <div class="slide"><img class="slider_img" src="@item.Img" alt="Slider img"></div>
+            }
+        </div><div class="arrows">
+            <a class="prev" href="#"><</a>
+            <a class="next" href="#">></a>
+        </div>
+    </div>
+
+
+</div>
+    foreach (var item in Model.Products)
+    {
+        <div class="itemProduct">
+            <img class="productImage" src="@item.Img" alt="@item.Name"></img>
+            <div class="additionally_information">
+                <p class="name">@item.Name</p>
+                <p class="additionally_information_text"> Description:@item.Description</p>
+                <p class="additionally_information_text">Price:@item.Price</p>
+                <p class="additionally_information_text">Category:@item.Category.Name</p>
+            </div>
+
+        </div>
+
+    }
+}
+   
+
+
+

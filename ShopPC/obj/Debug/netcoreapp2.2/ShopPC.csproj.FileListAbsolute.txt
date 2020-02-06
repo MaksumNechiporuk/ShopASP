@@ -1,0 +1,14 @@
+D:\Study\ASP .NET Core\ShopPC\ShopPC\bin\Debug\netcoreapp2.2\ShopPC.deps.json
+D:\Study\ASP .NET Core\ShopPC\ShopPC\bin\Debug\netcoreapp2.2\ShopPC.runtimeconfig.json
+D:\Study\ASP .NET Core\ShopPC\ShopPC\bin\Debug\netcoreapp2.2\ShopPC.runtimeconfig.dev.json
+D:\Study\ASP .NET Core\ShopPC\ShopPC\bin\Debug\netcoreapp2.2\ShopPC.dll
+D:\Study\ASP .NET Core\ShopPC\ShopPC\bin\Debug\netcoreapp2.2\ShopPC.pdb
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.csprojAssemblyReference.cache
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.csproj.CoreCompileInputs.cache
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.RazorAssemblyInfo.cache
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.RazorAssemblyInfo.cs
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.AssemblyInfoInputs.cache
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.AssemblyInfo.cs
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.RazorTargetAssemblyInfo.cache
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.dll
+D:\Study\ASP .NET Core\ShopPC\ShopPC\obj\Debug\netcoreapp2.2\ShopPC.pdb
